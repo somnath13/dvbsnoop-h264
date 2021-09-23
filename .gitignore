@@ -7,3 +7,8 @@ config.*
 Makefile
 build
 dvbsnoop
+
+cmakebuild/
+ls-R
+tags
+*.sw[a-z]
